@@ -1,0 +1,17 @@
+footer {
+    background-color: lightgreen;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.elem-foot {
+    display: inline-block;
+    margin: 5px; 
+}
+
+.elem-foot img:hover {
+    transform: scale(1.2, 1.2); }
